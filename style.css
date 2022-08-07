@@ -46,8 +46,6 @@ button[type="submit"] {
 }
 @media screen and (max-width: 600px) {
   img {
-    position: absolute;
-    top: 1;
     height: 50%;
     width: 80%;
   }
