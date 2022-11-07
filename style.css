@@ -60,7 +60,7 @@ button[type="submit"] {
 }
 
 .container::before {
-  background: url("https://scontent.fccu13-1.fna.fbcdn.net/v/t1.6435-9/203630723_4208177012558379_2015073646230031689_n.png?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4rmT3cSvx74AX9RSON2&_nc_ht=scontent.fccu13-1.fna&oh=00_AT-0GI906oTKY8Apmv_eXw1f7mSSJOyHv8vJh6p7CI1s0Q&oe=631558C6")
+  background: url("gfg.svg")
     no-repeat center center/cover;
   content: "";
   position: absolute;
